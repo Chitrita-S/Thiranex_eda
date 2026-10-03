@@ -1,0 +1,7 @@
+class,sex,Passengers,Survival_Rate,Average_Age,Average_Fare
+First,female,94,96.81,34.61,106.13
+First,male,122,36.89,41.28,67.23
+Second,female,76,92.11,28.72,21.97
+Second,male,108,15.74,30.74,19.74
+Third,female,144,50.0,21.75,16.12
+Third,male,347,13.54,26.51,12.66
